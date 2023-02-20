@@ -1,0 +1,21 @@
+Movie app
+------------
+To run this project
+
+- clone this repo.
+
+		git clone https://github.com/muhammedamirt/Movie-app.git
+## Backend
+- change directory to server.
+
+		cd server
+        npm install
+        npm start
+
+## Frontend
+
+- change directory to client.
+
+		cd client
+        npm install
+        npm start
